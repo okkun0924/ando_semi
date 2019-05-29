@@ -22,6 +22,15 @@
 <https://note.nkmk.me/python-pandas-where-mask/>
 ### subplotについて、ix,loc,ilocの違い
 <http://ailaby.com/lox_iloc_ix/>
+### 教科書の画像
+![p.203](https://user-images.githubusercontent.com/29570642/58529286-3bc1ee00-8215-11e9-8af2-2c4fccc7f8eb.JPG)
+![p.204](https://user-images.githubusercontent.com/29570642/58529287-3bc1ee00-8215-11e9-80d0-5fdeff02da85.JPG)
+![p.205](https://user-images.githubusercontent.com/29570642/58529288-3bc1ee00-8215-11e9-879f-6f31c32d4924.JPG)
+![p.206](https://user-images.githubusercontent.com/29570642/58529289-3c5a8480-8215-11e9-9c97-59fbba4ff254.JPG)
+![p.207](https://user-images.githubusercontent.com/29570642/58529290-3c5a8480-8215-11e9-8602-0dfe234aa663.JPG)
+![p.208](https://user-images.githubusercontent.com/29570642/58529291-3c5a8480-8215-11e9-95fb-edf11aa65adc.JPG)
+![p.209](https://user-images.githubusercontent.com/29570642/58529292-3c5a8480-8215-11e9-8c34-194aeed6c364.JPG)
+
 
 ## グループメンバー
 okkun0924 YosukeHoshi takumaosada
