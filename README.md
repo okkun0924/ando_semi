@@ -17,14 +17,14 @@
 - `resample()`
   > 時系列データをより高い・低い頻度でサンプリングし直す。アップサンプリング(短い周期)とダウンサンプリング(長い周期)がある。
   ここではリサンプリングした値にsum()メソッドを使って和の値を返している。
-  need to convert RangeIndex into DateTimeIndex for using resample() fanc.
+  need to convert RangeIndex into DateTimeIndex for using `resample()`.
   
   - <https://note.nkmk.me/python-pandas-time-series-resample-asfreq/>
   - <https://stackoverflow.com/questions/48248239/pandas-how-to-convert-rangeindex-into-datetimeindex>
   - <https://note.nkmk.me/python-pandas-time-series-datetimeindex/>
 - `rolling()`
   > 窓関数の適用。
-    元のデータ点ごとに指定範囲の統計量を算出するのがrolling()で、指定範囲ごとにデータを集約するのがresample()。
+    元のデータ点ごとに指定範囲の統計量を算出するのが`rolling()`で、指定範囲ごとにデータを集約するのが`resample()`。
     
   - <https://note.nkmk.me/python-pandas-rolling/>
   - <https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.rolling.html>
@@ -37,7 +37,7 @@
 - `where()`
   `numpy.where(condition[, x, y])`
   > Return elements, either from x or y, depending on condition.
-    If only condition is given, return condition.nonzero().
+    If only condition is given, return `condition.nonzero()`.
     
   - <https://note.nkmk.me/python-numpy-where/>
   
