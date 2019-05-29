@@ -41,7 +41,7 @@
     
   - <https://note.nkmk.me/python-numpy-where/>
   
-- subplotについて、ix,loc,ilocの違い
+- `subplot()`について、`ix`,`loc`,`iloc`の違い
 
   - <http://ailaby.com/lox_iloc_ix/>
   > dfのcolumnとrowを指定する方法
