@@ -1,4 +1,4 @@
-# Group work, unit1
+# 安藤ゼミ PythonDataScienceHandbook 3.12.7 (グループ１)
 ## 該当範囲　
 <https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html>
 
